@@ -2,8 +2,8 @@ Author: Naushad UzZaman (n@uzzaman.com)
 
 This is a json output version of SenticNet 3! 
 The author was having issues with different SenticNet tools because of: 
-i. problem in loading RDF/XML format -- https://github.com/yurimalheiros/senticnetapi
-ii. time takes to get the results from API -- https://github.com/tanayz/senticnetapi
+* problem in loading RDF/XML format -- https://github.com/yurimalheiros/senticnetapi
+* time takes to get the results from API -- https://github.com/tanayz/senticnetapi
 
 Hence the author wrote scripts to create a json format output for SenticNet. Others having issues with existing tools could be benefited from it too. 
 
